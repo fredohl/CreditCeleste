@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CreditCeleste">
+</Property><Property Name="Fichier solution" Value="C:\Users\kreyder7\Desktop\CreditCelesteV4 LEFORT\CreditCeleste.sln">
+</Property><Property Name="Fichier d'options utilisateur" Value="C:\Users\kreyder7\Desktop\CreditCelesteV4 LEFORT\CreditCeleste.suo">
+</Property><Property Name="Date" Value="Wednesday, April 10, 2013">
+</Property><Property Name="Time" Value="11:33 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CreditCeleste.sln" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CreditCeleste.suo" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste.suo">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\CreditCeleste.vbproj" Description="Fichier projet correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\CreditCeleste.vbproj">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\CreditCeleste.vbproj.user" Description="Fichier utilisateur de projet correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\CreditCeleste.vbproj.user">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\ClientVoit.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\ClientVoit.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\Concession.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\Concession.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\ConcessionFermé.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\ConcessionFermé.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\Dossier.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\Dossier.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\frmDossier.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\frmDossier.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\frmDossier.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\frmDossier.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\frmAccueil.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\frmAccueil.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\frmAccueil.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\frmAccueil.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\frmIntroduction.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\frmIntroduction.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\frmIntroduction.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\frmIntroduction.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\frmSaisieBien.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\frmSaisieBien.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\frmSaisieBien.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\frmSaisieBien.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\ModuleTest.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\ModuleTest.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\ModuleVariable.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\ModuleVariable.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\My Project\AssemblyInfo.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\My Project\Application.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\My Project\Resources.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\My Project\Settings.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\Vendeur.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\Vendeur.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\Voiture.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\Voiture.vb">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\ClassDiagram1.cd" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\ClassDiagram2.cd" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\ClassDiagram2.cd">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\My Project\Application.myapp" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\My Project\Settings.settings" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\frmDossier.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\frmDossier.resx">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\frmAccueil.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\frmAccueil.resx">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\frmIntroduction.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\frmIntroduction.resx">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\frmSaisieBien.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\frmSaisieBien.resx">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\My Project\Resources.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\kreyder7\Desktop\CreditCelesteV4\Backup\CreditCeleste\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\CreditCeleste.vbproj" Description="Projet correctement converti">
+</Event><Event ErrorLevel="3" Project="CreditCeleste" Source="CreditCeleste\CreditCeleste.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CreditCeleste.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="CreditCeleste.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CreditCeleste" Source="CreditCeleste\CreditCeleste.vbproj" Description="Analyse terminée : la mise à niveau n'est pas requise pour les fichiers projet.">
+</Event></UpgradeLog>

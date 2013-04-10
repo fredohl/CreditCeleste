@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CreditCeleste.Concession">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAABIAAAAg=</HashCode>
+      <FileName>Concession.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="LesVendeurs" />
+      <Field Name="lesVoitures" />
+      <Field Name="lesClients" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CreditCeleste.Vendeur">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAAoAAAACAAAAgAgAAAAAAgAgAAIAAAAAAIA=</HashCode>
+      <FileName>Vendeur.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.Voiture">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAgAIAAAgaEAAgAAAAACQAAAAEAQQAAAAYIIA=</HashCode>
+      <FileName>Voiture.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.ClientVoit">
+    <Position X="4.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAAAAAAAAAAAAAAABAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>ClientVoit.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="saVoiture" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="clientCs.Client">
+    <Position X="4.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

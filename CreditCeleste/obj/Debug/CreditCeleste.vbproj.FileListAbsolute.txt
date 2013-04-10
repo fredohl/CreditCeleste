@@ -1,0 +1,77 @@
+F:\CreditCelesteSlam\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+F:\CreditCelesteSlam\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+F:\CreditCelesteSlam\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+F:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\ResolveAssemblyReference.cache
+F:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+F:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+F:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.Cache
+F:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+F:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+F:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+F:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+F:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmAccueil.resources
+E:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+E:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+E:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+E:\CreditCelesteSlam\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+E:\CreditCelesteSlam\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+E:\CreditCelesteSlam\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+E:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\ResolveAssemblyReference.cache
+E:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmAccueil.resources
+E:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+E:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+E:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+E:\CreditCelesteSlam\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.Cache
+E:\CreditCelesteSlam\CreditCeleste\CreditCeleste\bin\Debug\clientCs.dll
+E:\CreditCelesteSlam\CreditCeleste\CreditCeleste\bin\Debug\clientCs.pdb
+C:\Users\Mexios\Desktop\Credit Celeste 2013\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+C:\Users\Mexios\Desktop\Credit Celeste 2013\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+C:\Users\Mexios\Desktop\Credit Celeste 2013\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+C:\Users\Mexios\Desktop\Credit Celeste 2013\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+C:\Users\Mexios\Desktop\Credit Celeste 2013\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+C:\Users\Mexios\Desktop\Credit Celeste 2013\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+C:\Users\Mexios\Desktop\Credit Celeste 2013\CreditCeleste\CreditCeleste\bin\Debug\clientCs.dll
+C:\Users\Mexios\Desktop\Credit Celeste 2013\CreditCeleste\CreditCeleste\bin\Debug\clientCs.pdb
+C:\Users\Mexios\Desktop\Credit Celeste 2013\CreditCeleste\CreditCeleste\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mexios\Desktop\Credit Celeste 2013\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmAccueil.resources
+C:\Users\Mexios\Desktop\Credit Celeste 2013\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+C:\Users\Mexios\Desktop\Credit Celeste 2013\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+C:\Users\Mexios\Desktop\Credit Celeste 2013\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+C:\Users\Mexios\Desktop\Credit Celeste 2013\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.Cache
+C:\Users\Mexios\Desktop\Credit Celeste 2013\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmDossier.resources
+C:\Users\Mexios\Desktop\Conception\Credit Celeste 2013\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.exe
+C:\Users\Mexios\Desktop\Conception\Credit Celeste 2013\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.xml
+C:\Users\Mexios\Desktop\Conception\Credit Celeste 2013\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.pdb
+C:\Users\Mexios\Desktop\Conception\Credit Celeste 2013\CreditCelesteV3 LEFORT\CreditCeleste\bin\Debug\CreditCeleste.exe
+C:\Users\Mexios\Desktop\Conception\Credit Celeste 2013\CreditCelesteV3 LEFORT\CreditCeleste\bin\Debug\CreditCeleste.pdb
+C:\Users\Mexios\Desktop\Conception\Credit Celeste 2013\CreditCelesteV3 LEFORT\CreditCeleste\bin\Debug\CreditCeleste.xml
+C:\Users\Mexios\Desktop\Conception\Credit Celeste 2013\CreditCelesteV3 LEFORT\CreditCeleste\bin\Debug\clientCs.dll
+C:\Users\Mexios\Desktop\Conception\Credit Celeste 2013\CreditCelesteV3 LEFORT\CreditCeleste\bin\Debug\clientCs.pdb
+C:\Users\Mexios\Desktop\Conception\Credit Celeste 2013\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mexios\Desktop\Conception\Credit Celeste 2013\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.frmDossier.resources
+C:\Users\Mexios\Desktop\Conception\Credit Celeste 2013\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.frmAccueil.resources
+C:\Users\Mexios\Desktop\Conception\Credit Celeste 2013\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+C:\Users\Mexios\Desktop\Conception\Credit Celeste 2013\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+C:\Users\Mexios\Desktop\Conception\Credit Celeste 2013\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+C:\Users\Mexios\Desktop\Conception\Credit Celeste 2013\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.Cache
+C:\Users\Mexios\Documents\Visual Studio 2008\Projects\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mexios\Documents\Visual Studio 2008\Projects\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.frmDossier.resources
+C:\Users\Mexios\Documents\Visual Studio 2008\Projects\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.frmAccueil.resources
+C:\Users\Mexios\Documents\Visual Studio 2008\Projects\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+C:\Users\Mexios\Documents\Visual Studio 2008\Projects\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+C:\Users\Mexios\Documents\Visual Studio 2008\Projects\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+C:\Users\Mexios\Documents\Visual Studio 2008\Projects\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.Cache
+C:\Users\Mexios\Documents\Visual Studio 2008\Projects\CreditCelesteV3 LEFORT\CreditCeleste\bin\Debug\CreditCeleste.exe
+C:\Users\Mexios\Documents\Visual Studio 2008\Projects\CreditCelesteV3 LEFORT\CreditCeleste\bin\Debug\CreditCeleste.pdb
+C:\Users\Mexios\Documents\Visual Studio 2008\Projects\CreditCelesteV3 LEFORT\CreditCeleste\bin\Debug\CreditCeleste.xml
+C:\Users\Mexios\Documents\Visual Studio 2008\Projects\CreditCelesteV3 LEFORT\CreditCeleste\bin\Debug\clientCs.dll
+C:\Users\Mexios\Documents\Visual Studio 2008\Projects\CreditCelesteV3 LEFORT\CreditCeleste\bin\Debug\clientCs.pdb
+C:\Users\Mexios\Documents\Visual Studio 2008\Projects\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.exe
+C:\Users\Mexios\Documents\Visual Studio 2008\Projects\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.xml
+C:\Users\Mexios\Documents\Visual Studio 2008\Projects\CreditCelesteV3 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.pdb
+C:\Users\kreyder7\Desktop\CreditCelesteV4 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.exe
+C:\Users\kreyder7\Desktop\CreditCelesteV4 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.xml
+C:\Users\kreyder7\Desktop\CreditCelesteV4 LEFORT\CreditCeleste\obj\Debug\CreditCeleste.pdb
+C:\Users\kreyder7\Desktop\CreditCelesteV4 juste\CreditCeleste\obj\Debug\CreditCeleste.exe
+C:\Users\kreyder7\Desktop\CreditCelesteV4 juste\CreditCeleste\obj\Debug\CreditCeleste.xml
+C:\Users\kreyder7\Desktop\CreditCelesteV4 juste\CreditCeleste\obj\Debug\CreditCeleste.pdb
